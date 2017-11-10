@@ -1,0 +1,12 @@
+#Creator:
+
+Name: Yasmin Mushahdi <ym222bs@student.lnu.se>
+Site: http://localhost:4000/
+
+
+
+# Special Thanks:
+
+My teachers @ school
+Jekyll
+<www.youtube.com>
