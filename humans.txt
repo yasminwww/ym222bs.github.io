@@ -1,12 +1,21 @@
+
+----
+
 #Creator:
 
-Name: Yasmin Mushahdi <ym222bs@student.lnu.se>
-Site: http://localhost:4000/
+Name: Yasmin Mushahdi 
+School email : <ym222bs@student.lnu.se>
+Site: <http://localhost:4000/>
+My Github: <https://github.com/ym222bs>
+Location: Calmar, Sweden
 
-
+----
 
 # Special Thanks:
 
 My teachers @ school
-Jekyll
-<www.youtube.com>
+- Jekyll
+- Youtube
+- Github
+
+----
