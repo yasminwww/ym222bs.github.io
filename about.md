@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+
 ![This is a picture of me](/img/jag.jpg)
 
 ### Hello People of the world.

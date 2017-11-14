@@ -2,7 +2,15 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
+  <meta property="og:title" content="My Awesome Page"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="http://localhost:4000/about/"/>
+  <meta property="og:image" content="https://image.ibb.co/gRJ9DG/jack.jpg"/>
+  <meta property="og:description" content="Me just coming from the store.."/>
+  <meta property="og:site_name" content="http://localhost:4000/"/>
+  <meta property="og:fb:admins" content="1102711847"/>
+  <meta property="facebook:Card" content="my_web"/>
+  
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
@@ -12,6 +20,7 @@
  
   <link href="https://fonts.googleapis.com/css?family=Dosis:700" rel="stylesheet">
   <link rel="author" href="humans.txt"/>
+
   
 
   {% include OG.html %}

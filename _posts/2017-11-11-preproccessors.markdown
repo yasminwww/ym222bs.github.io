@@ -39,7 +39,10 @@ div {
 {% endhighlight %}
 
 So instead of seraching all font-sizes and changing them thereafter the Variables makes it
-possible to change all font-text in the same family at one place.
+possible to change all font-sizes in the same family at one place.
+
+
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
