@@ -9,6 +9,10 @@
   position: relative;
   
 }
+.site-header {
+  background: url("../img/berg1.jpeg") no-repeat center center;
+  height: 270px;
+}
 
 .page-link{
   font-size: 26px;
@@ -184,7 +188,7 @@
 * Page content
 */
 .page-content {
-  padding: $spacing-unit 0;
+  padding: $spacing-unit -30px;
 }
 
 .page-heading {

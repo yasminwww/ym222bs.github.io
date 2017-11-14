@@ -1,24 +1,46 @@
 ---
 comments: true
 layout: post
-title:  "Robot.txt"
+title:  "Humans.txt"
 date:   2017-11-07 10:21:35 -0600
 categories: jekyll update
 ---
 
 
+Humans.txt is a textfile with preferred credits to those who where involved
+in making of the webpage, the poeple behind. One can pretty much involve what/whoever one wants.
+It is mostly lite credits that shows up after a movie, which present all 
+the involved in making it. 
 
-Jekyll also offers powerful support for code snippets:
+In this humans.txt file you can mention all techniques that where used or 
+people involved, or even an inspiration to the idea of the website. Its free
+for all to form your own credits.
+There are some guidelines one can follow if needed.
+
+#### This is how my looks: 
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+ Creator:
+
+Name: Yasmin Mushahdi 
+School email : <ym222bs@student.lnu.se>
+Site: <http://localhost:4000/>
+My Github: <https://github.com/ym222bs>
+Location: Calmare, Sweden
+
+----
+
+ Special Thanks:
+
+My teachers @ school
+- Goooooooogle
+- Jekyll
+- Youtube
+- Github
+
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

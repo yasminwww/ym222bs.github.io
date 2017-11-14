@@ -1,22 +1,21 @@
 ---
 comments: true
 layout: post
-title:  "Robot.txt"
+title:  "Robots.txt"
 date:   2017-11-07 10:21:35 -0600
 categories: jekyll update
----
-This is 
-Robot.txt is a search-engine blocker/allower access to yout content.
+--- 
+
+Robots.txt is a search-engine blocker/allower access to yout content.
 
 
-Jekyll also offers powerful support for code snippets:
+
 
 {% highlight ruby %}
 User-agent: *
 Disallow: /
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
