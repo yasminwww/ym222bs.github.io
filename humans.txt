@@ -7,7 +7,7 @@ Name: Yasmin Mushahdi
 School email : <ym222bs@student.lnu.se>
 Site: <http://localhost:4000/>
 My Github: <https://github.com/ym222bs>
-Location: Calmar, Sweden
+Location: Calmare, Sweden
 
 ----
 
@@ -17,6 +17,7 @@ My teachers @ school
 - Jekyll
 - Youtube
 - Github
+
 
 ----
 

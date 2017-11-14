@@ -8,6 +8,7 @@ categories: jekyll update
 
 ### First of all: What is preproccessing CSS? ...
 
+Preproccessing CSS is a new way maintaining, structuring, and konfiguring CSS code.
 There are a handfull of usefull preprocessors for CSS:  
 
 {% highlight ruby %}
@@ -16,9 +17,9 @@ There are a handfull of usefull preprocessors for CSS:
  Stylus
 {% endhighlight %}
 
-And they all support CSS, how ever, they all have special features and there own syntax.
-For example, they all make it possible to create Variables for saving content. This is how it can
-look:
+And they all support CSS, how ever, they all have special features and their own syntax.
+For example, they all make it possible to create Variables for saving constans. This is how it can
+look in :
 
 {% highlight ruby %}
 CSS:
@@ -27,7 +28,7 @@ div {
     font-size: 16px;
 }
 
------------
+
 LESS: 
 
 @font-size: 16px;
@@ -37,8 +38,8 @@ div {
 }
 {% endhighlight %}
 
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+So instead of seraching all font-sizes and changing them thereafter the Variables makes it
+possible to change all font-text in the same family at one place.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
