@@ -3,17 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+![This is a picture of me](/img/jag.jpg)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Hello People of the world.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My name is Yasmin Mushahdi and I'm currenntly studying Webprogrammming @ Linnaeus University.
+It's really fun and not what I was expecting at the beginning. 
 
-[jekyll-organization]: https://github.com/jekyll
-
-Hello People of the world.

@@ -1,13 +1,13 @@
 /**
- * Site header
- */
+* Site header
+*/
 .site-header {
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
-
   // Positioning context for the mobile navigation icon
   position: relative;
+  
 }
 
 
@@ -18,7 +18,7 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-
+  
   &,
   &:visited {
     color: $grey-color-dark;
@@ -28,25 +28,25 @@
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
-
+  
   .nav-trigger {
-      display: none;
+    display: none;
   }
-
+  
   .menu-icon {
     display: none;
   }
-
+  
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
-
+    
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 20px;
     }
   }
-
+  
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
@@ -55,7 +55,7 @@
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
-
+    
     label[for="nav-trigger"] {
       display: block;
       float: right;
@@ -64,7 +64,7 @@
       z-index: 2;
       cursor: pointer;
     }
-
+    
     .menu-icon {
       display: block;
       float: right;
@@ -73,26 +73,26 @@
       line-height: 0;
       padding-top: 10px;
       text-align: center;
-
+      
       > svg path {
         fill: $grey-color-dark;
       }
     }
-
+    
     input ~ .trigger {
       clear: both;
       display: none;
     }
-
+    
     input:checked ~ .trigger {
       display: block;
       padding-bottom: 5px;
     }
-
+    
     .page-link {
       display: block;
       padding: 5px 10px;
-
+      
       &:not(:last-child) {
         margin-right: 0;
       }
@@ -104,8 +104,8 @@
 
 
 /**
- * Site footer
- */
+* Site footer
+*/
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
@@ -156,7 +156,7 @@
     width: -webkit-calc(50% - (#{$spacing-unit} / 2));
     width:         calc(50% - (#{$spacing-unit} / 2));
   }
-
+  
   .footer-col-3 {
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
     width:         calc(100% - (#{$spacing-unit} / 2));
@@ -174,11 +174,10 @@
 
 
 /**
- * Page content
- */
+* Page content
+*/
 .page-content {
   padding: $spacing-unit 0;
-  background: url("../img/white_super_web.jpg") no-repeat center center;
 }
 
 .page-heading {

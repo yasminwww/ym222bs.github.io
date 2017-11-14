@@ -5,18 +5,18 @@
 $base-font-family: "Dosis", sans-serif; 
 $base-font-size:   18px !default;
 $base-font-weight: 400 !default;
-$small-font-size:  $base-font-size * 0.875 !default;
+$small-font-size:  $base-font-size * 0.895 !default;
 $base-line-height: 1.5 !default;
 
 
 $spacing-unit:     40px !default;
 
-$text-color:       rgb(71, 66, 66) !default;
+$text-color:       #3e4357 !default;
 $background-color: #e09faa !default;
-$brand-color:      #8a2c74 !default;
+$brand-color:      #b91596 !default;
 
 
-$grey-color:       #363535 !default;
+$grey-color:       #3b4253 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
