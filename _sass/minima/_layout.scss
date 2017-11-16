@@ -11,7 +11,7 @@
 }
 .site-header {
   background: url("../img/berg1.jpeg") no-repeat center center;
-  height: 270px;
+  height: 290px;
 }
 
 .page-link{
@@ -22,13 +22,15 @@
   font-size: 36px;
 }
 
+
 .site-title {
   @include relative-font-size(2.670);
-  font-weight: 300;
+  font-weight: 700;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  
   
   &,
   &:visited {
@@ -119,7 +121,10 @@
 */
 .site-footer {
   border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0;
+  font-family: 'Dosis', sans-serif;
+  font-weight: 400;
+  
+
 }
 
 .footer-heading {

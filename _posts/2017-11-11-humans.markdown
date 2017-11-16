@@ -7,7 +7,7 @@ categories: jekyll update
 ---
 
 
-Humans.txt is a textfile with preferred credits to those who where involved
+Humans.txt is a text file with preferred credits to those who were involved
 in making of the webpage, the poeple behind. One can pretty much involve what/whoever one wants.
 It is mostly lite credits that shows up after a movie, which present all 
 the involved in making it. 

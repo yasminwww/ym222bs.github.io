@@ -6,16 +6,32 @@ date:   2017-11-07 10:21:35 -0600
 categories: jekyll update
 --- 
 
-Robots.txt is a search-engine blocker/allower access to yout content.
+Robots.txt is a text file with instructions on what restrictions you want other 
+search-engines or search-robots to have, searching you site. A search-bot will automatically 
+first look for the robots.txt file and only search what you have allowed. Its important to 
+place the text file inside the root to make the above possible. 
 
-
-
+The instructions can look like this:
 
 {% highlight ruby %}
 User-agent: *
 Disallow: /
 {% endhighlight %}
 
+This means * = all search-bots, / disallowing all pages to be searched.
+You can make a list of your preferred search-bots and only allowing/disallowing them 
+access and also deside what content/page to search. 
+
+To allow a singel bot all access:
+
+{% highlight ruby %}
+User-agent: Google
+Disallow:
+
+User-agent: *
+Disallow: /
+
+{% endhighlight %}
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

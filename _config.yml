@@ -13,17 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Welcome! 
+title: Welcome.
 email: ym222bs@student.lnu.se
-description: This webpage is made with the help from Jekyll and 
-is currently using a theme called minima. This is try on my behalf to implement, 
-for me, new techniques in making a static webpage from a fresh template.
-I hope you will enjoy the process of refining this webpage as much as me.
+description: This webpage is made with the help from Jekyll and is currently using a theme called minima. This is try on my behalf to implement, for me, new techniques in making a static webpage from a fresh template. I hope you will enjoy the process of refining this webpage as much as me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
+twitter_username: IHaveNoneYet
+github_username:  ym222bs
 # Build settings
 markdown: kramdown
 theme: minima
@@ -31,7 +27,7 @@ plugins:
   - jekyll-feed
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
+# The following items will not be processed, by default. Create a custom list 
 # to override the default setting.
 # exclude:
 #   - Gemfile
