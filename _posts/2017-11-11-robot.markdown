@@ -20,9 +20,9 @@ Disallow: /
 
 This means * = all search-bots, / disallowing all pages to be searched.
 You can make a list of your preferred search-bots and only allowing/disallowing them 
-access and also deside what content/page to search. 
+access and also decide what content/page to search. 
 
-To allow a singel bot all access:
+To allow a single bot all access:
 
 {% highlight ruby %}
 User-agent: Google
