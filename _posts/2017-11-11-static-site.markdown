@@ -21,7 +21,7 @@ My first thoughts was...
 This was a bit confusing may I say, if I would have a strong idea
 of how things should look from the beginning then I probably would create the website from scratch, 
 instead of using Jekyll.. 
-But once I understood the time saving-aspect of creating with Jekyll i get the idea why its popular. 
+But once I understood the time saving-aspect of creating with Jekyll i get the idea why it's popular. 
 
 Jekyll has a lot of themes and layouts and features that are ready
 to use and is written in scss/html/css. Check it out [jekyll-docs]: https://jekyllrb.com/docs/home

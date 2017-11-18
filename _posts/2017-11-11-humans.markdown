@@ -24,7 +24,7 @@ There are some guidelines one can follow if needed.
 
 Name: Yasmin Mushahdi 
 School email : <ym222bs@student.lnu.se>
-Site: <http://localhost:4000/>
+Site: <http://ym222bs.github.io>
 My Github: <https://github.com/ym222bs>
 Location: Calmare, Sweden
 
