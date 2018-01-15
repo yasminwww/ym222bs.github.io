@@ -18,7 +18,7 @@ There are a handful of useful preprocessors for CSS:
 {% endhighlight %}
 
 And they all get rewritten into a regular CSS-code, however, they all have special features and slightly different but very much like the regular CSS syntax. 
-For example, they make it possible to use functions, nest your code, use mixins and create variables for saving constants. 
+For example, they make it possible to use functions, nest your code, use mixins, extend parts of code and create variables for saving constants. 
 This is how it can look in :
 
 {% highlight ruby %}
@@ -53,10 +53,17 @@ My question is Why?
 Why not just add/extend all these new features into the current CSS, so that you still are able to divide 
 your project AND use functions, mixins, create variables within your code. I say this because of javascript. It is 
 a big language, has a lot of users and still changes all the time (every year there is some new tweaks and addings to it). 
-The old javascript code still works as users move over to easier solutions. 
+The old javascript code still works as users move over to easier solutions.
 
 I haven't really find an answer yet, and it was just a thought. In the mean time I will still use the preproccessors to see where they can take me..
 
+In this project i used SCSS or SASS as it is called, and for the theme I chose minima. I tweaked some variables to change colors, fonts, I added pictures and information to my Jekyll blog.
+
+### Pros and Cons
+
+I can assume the plus side: code becomes clean and reusable, have more features to work with (mixins, importing...).  It is easy to hand over a project to other developers presuming they know the used language, otherwise it can be a problem.
+
+I can imagine the cons could be: learning a new language to basically manipulate CSS. Nesting too much? 
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

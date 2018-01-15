@@ -17,7 +17,7 @@ people involved, or even an inspiration to the idea of the website. Its free
 for all to form your own credits.
 There are some guidelines one can follow if needed.
 
-#### This is how my looks: 
+#### This is how mine looks: 
 
 {% highlight ruby %}
  Creator:
