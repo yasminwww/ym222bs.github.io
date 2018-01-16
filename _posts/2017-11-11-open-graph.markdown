@@ -22,7 +22,6 @@ where people link/share your website. Open graph makes your website into an obje
 <meta property="og:site_name" content="http://localhost:4000/"/>
 <meta property="og:fb:admins" content="1102711847"/>
 
-
 {% endhighlight %}
 
 

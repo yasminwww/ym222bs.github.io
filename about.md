@@ -21,7 +21,7 @@ For all of you who don't know me, Im a 29 year old curiosity stubborn person, wh
 Hopfully in the future, I will rule the world with all the other Web Lords.
 
 
-![This is my face](/img/jag1.jpg)    
+![A picture of me](/img/jag1.jpg)    
 This is kind of me.
 
 
